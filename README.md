@@ -1,8 +1,8 @@
-# Job Portal - Full Stack Job Board Application
+# Hirrd - Full Stack Job Portal Application
 
 A modern, responsive job portal built with React, Supabase, and Clerk authentication. This application allows job seekers to browse and apply for jobs, while recruiters can post and manage job listings.
 
-## 🚀 Features
+##  Features
 
 ### For Job Seekers
 - **Browse Jobs**: Search and filter jobs by location, company, and keywords
@@ -25,7 +25,7 @@ A modern, responsive job portal built with React, Supabase, and Clerk authentica
 - **Secure Authentication**: Clerk-powered user authentication and management
 - **File Uploads**: Resume and company logo uploads with Supabase Storage
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks and functional components
@@ -47,7 +47,7 @@ A modern, responsive job portal built with React, Supabase, and Clerk authentica
 - **Lucide React** - Icon library
 - **React Spinners** - Loading animations
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 job-portal/
@@ -83,7 +83,7 @@ job-portal/
 └── vite.config.js
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v16 or higher)
@@ -179,7 +179,7 @@ job-portal/
 7. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 🔧 Configuration
+##  Configuration
 
 ### Supabase Configuration
 - Enable Row Level Security (RLS) on all tables
@@ -196,7 +196,7 @@ job-portal/
 - Responsive breakpoints
 - Component-specific styles
 
-## 📱 Usage
+##  Usage
 
 ### Job Seeker Workflow
 1. **Browse Jobs**: Visit the job listing page to see available positions
@@ -211,7 +211,7 @@ job-portal/
 3. **Review Applications**: Check incoming applications and update statuses
 4. **Company Profile**: Add and manage company information
 
-## 🎨 Customization
+##  Customization
 
 ### Styling
 - Modify `tailwind.config.js` for theme customization
@@ -224,7 +224,7 @@ job-portal/
 - Add analytics and reporting
 - Integrate with external job boards
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 1. Connect your GitHub repository to Vercel
@@ -236,7 +236,7 @@ job-portal/
 - **AWS Amplify**: For AWS ecosystem
 - **Heroku**: Traditional hosting platform
 
-## 🔒 Security
+##  Security
 
 - **Row Level Security**: Database-level access control
 - **Authentication**: Clerk-powered user management
@@ -256,14 +256,14 @@ npm run test:watch
 npm run test:coverage
 ```
 
-## 📊 Performance
+##  Performance
 
 - **Code Splitting**: Route-based code splitting
 - **Lazy Loading**: Component lazy loading for better performance
 - **Image Optimization**: Optimized image loading
 - **Bundle Analysis**: Use `npm run build --analyze` for bundle analysis
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -271,9 +271,7 @@ npm run test:coverage
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -283,22 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** for the utility-first CSS framework
 - **React Team** for the amazing frontend library
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/job-portal/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
-## 🔄 Changelog
-
-### Version 1.0.0
-- Initial release
-- Core job portal functionality
-- User authentication
-- Job posting and application system
-- Responsive design
 
 ---
 
